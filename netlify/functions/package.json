@@ -1,0 +1,11 @@
+{
+  "name": "just-my-fit-functions",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "serverless-http": "^3.2.0",
+    "cors": "^2.8.5",
+    "@supabase/supabase-js": "^2.38.0",
+    "nodemailer": "^6.9.4"
+  }
+}
